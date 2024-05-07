@@ -1,0 +1,15 @@
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\bin\Debug\net8.0\ProtoType.exe
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\bin\Debug\net8.0\ProtoType.deps.json
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\bin\Debug\net8.0\ProtoType.runtimeconfig.json
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\bin\Debug\net8.0\ProtoType.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\bin\Debug\net8.0\ProtoType.pdb
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\obj\Debug\net8.0\ProtoType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\obj\Debug\net8.0\ProtoType.AssemblyInfoInputs.cache
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\obj\Debug\net8.0\ProtoType.AssemblyInfo.cs
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\obj\Debug\net8.0\ProtoType.csproj.CoreCompileInputs.cache
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\obj\Debug\net8.0\ProtoType.sourcelink.json
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\obj\Debug\net8.0\ProtoType.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\obj\Debug\net8.0\refint\ProtoType.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\obj\Debug\net8.0\ProtoType.pdb
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\obj\Debug\net8.0\ProtoType.genruntimeconfig.cache
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\shellScript01\CreationalPatterns\ProtoType\obj\Debug\net8.0\ref\ProtoType.dll

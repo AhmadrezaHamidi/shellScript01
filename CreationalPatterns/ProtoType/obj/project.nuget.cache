@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1OqKtOFzCeC+c77suzm6UB4i7vE6tcWjO3VAU9bkGUGC/7Jm/khD5b3w02sCCdxSdBMAK2/1WdXiMjbwLU9X/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\shellScript01\\CreationalPatterns\\ProtoType\\ProtoType.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/NugetServer/Nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

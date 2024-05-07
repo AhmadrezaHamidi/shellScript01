@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+TTjpohTJYdOixInJ7/lt6HFLcMmWsBdwSt/h11RHc2jCLQyWsBdGtxfiydiDr3FpT2ZztP9OIiT4XF9h2BmTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\shellScript01\\CreationalPatterns\\FactoryMethod\\FactoryMethod.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/NugetServer/Nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
